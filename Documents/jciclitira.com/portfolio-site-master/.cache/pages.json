@@ -1,0 +1,93 @@
+[
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "404.json",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-crowd-scores-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "crowd-scores.json",
+        "path": "/CrowdScores/"
+    },
+    {
+        "componentChunkName": "component---src-pages-gradient-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "gradient.json",
+        "path": "/Gradient/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-numilli-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "numilli.json",
+        "path": "/Numilli/"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "page-2.json",
+        "path": "/page-2/"
+    },
+    {
+        "componentChunkName": "component---src-pages-quidco-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "quidco.json",
+        "path": "/Quidco/"
+    },
+    {
+        "componentChunkName": "component---src-pages-suggestv-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "suggestv.json",
+        "path": "/Suggestv/"
+    },
+    {
+        "componentChunkName": "component---src-pages-thanks-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "thanks.json",
+        "path": "/Thanks/"
+    },
+    {
+        "componentChunkName": "component---src-pages-vivy-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "vivy.json",
+        "path": "/Vivy/"
+    },
+    {
+        "componentChunkName": "component---src-pages-yunojuno-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "yunojuno.json",
+        "path": "/Yunojuno/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "404-html.json",
+        "path": "/404.html"
+    }
+]
