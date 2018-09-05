@@ -91,7 +91,7 @@ body {
 
 a,
 body {
-   color: #03222a
+   color: #2D3539
 }
 
 input,
@@ -107,10 +107,6 @@ textarea {
   color: #fff
 }
 
-
-.secondary-text {
-  color: rgba(0, 0, 0, .70)
-}
 
 .hint-text {
   color: rgba(0, 0, 0, .38)
