@@ -52,8 +52,7 @@ job='UI/UX Research, Wireframing, UI/UX Design, Icon Design, Conceptualising Ide
   </section>
 
 <section className='mt5 dib' id='advertising'>
-    <h2 className='fw3 ml3'>Advertising</h2>
-        <div className='bg-accent ml3 mb4' style={{width: '40px', height:'4px' }}> </div>
+    <h2 className='ml3'>Advertising</h2>
 
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
           <img className='shadow' src='images/crowdscores/marketing/web1.jpg' alt='CrowdScore-marketing'/>
