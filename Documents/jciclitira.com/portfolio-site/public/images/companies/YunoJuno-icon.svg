@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>YunoJuno-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="192" height="192" rx="27"></rect>
+        <path d="M93,63.6314894 L144.818933,33.7138148 C147.688688,32.0569605 148.671939,28.3874181 147.015085,25.5176623 L134.015085,3.00100185 L134.015085,3.00100185 C132.358231,0.131246111 128.688688,-0.852004821 125.818933,0.804849429 L125.818933,0.804849429 L73.8189325,30.8270634 L22.6061196,1.2593321 C19.7363639,-0.397522149 16.0668214,0.585728783 14.4099672,3.45548452 L1.4099672,25.972145 L1.4099672,25.972145 C-0.246887054,28.8419008 0.736363877,32.5114432 3.60611962,34.1682974 L55,63.8405681 L55,123 C55,126.313708 57.6862915,129 61,129 L87,129 C90.3137085,129 93,126.313708 93,123 L93,63.6314894 Z" id="path-3"></path>
+        <filter x="-2.0%" y="-6.8%" width="104.1%" height="109.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="YunoJuno-icon">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-13-Copy" fill="#3CD8AB" xlink:href="#path-1"></use>
+            <g id="Group-6" opacity="0.920000017" mask="url(#mask-2)">
+                <g transform="translate(22.000000, 20.000000)">
+                    <g id="Group-5" stroke-width="1" fill="none" transform="translate(74.000000, 64.500000) rotate(-180.000000) translate(-74.000000, -64.500000) ">
+                        <path d="M93,63.6314894 L144.818933,33.7138148 C147.688688,32.0569605 148.671939,28.3874181 147.015085,25.5176623 L134.015085,3.00100185 L134.015085,3.00100185 C132.358231,0.131246111 128.688688,-0.852004821 125.818933,0.804849429 L125.818933,0.804849429 L73.8189325,30.8270634 L22.6061196,1.2593321 C19.7363639,-0.397522149 16.0668214,0.585728783 14.4099672,3.45548452 L1.4099672,25.972145 L1.4099672,25.972145 C-0.246887054,28.8419008 0.736363877,32.5114432 3.60611962,34.1682974 L55,63.8405681 L55,123 C55,126.313708 57.6862915,129 61,129 L87,129 C90.3137085,129 93,126.313708 93,123 L93,63.6314894 Z" id="Combined-Shape" fill="#C8F3E7"></path>
+                    </g>
+                    <polygon id="Path-3" fill="#8CEAD0" points="91.7325494 108.041925 102.887299 115.244195 103.317445 93.4217191 121.801257 82.1241797 107.94536 74 89 89.7009016"></polygon>
+                    <g id="Group-5" stroke-width="1" fill="none" transform="translate(0.000000, 24.000000)">
+                        <g id="Combined-Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

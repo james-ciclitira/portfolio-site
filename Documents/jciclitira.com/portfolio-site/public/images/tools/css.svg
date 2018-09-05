@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="314px" height="314px" viewBox="0 0 314 314" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>css</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="css" fill-rule="nonzero">
+            <g>
+                <polygon id="Shape" points="0 0 314 0 314 314 0 314"></polygon>
+                <g id="Group" transform="translate(53.000000, 10.000000)">
+                    <polyline id="Shape" fill="#264DE4" points="104 293.5 19 270 0 57.6 208.2 57.6 189.2 269.8"></polyline>
+                    <polyline id="Shape" fill="#2965F1" points="173 256.4 189.2 75 104.2 75 104.2 275.5"></polyline>
+                    <path d="M43.5,153.8 L45.8,179.8 L104,179.8 L104,153.8 M38.8,101 L41.1,127 L104.1,127 L104.1,101 M104,221.4 L75,213.6 L73,192.8 L47,192.8 L50.6,233.8 L104,248.5" id="Shape" fill="#EBEBEB"></path>
+                    <path d="M49,0 L80.6,0 L80.6,13.2 L62.2,13.2 L62.2,26.4 L80.6,26.4 L80.6,39.6 L49,39.6 M87,0 L118.4,0 L118.4,11.5 L100,11.5 L100,13.8 L118.4,13.8 L118.4,40 L87,40 L87,28 L105,28 L105,26 L87,26 M124.8,0 L156.3,0 L156.3,11.5 L138,11.5 L138,13.8 L156.3,13.8 L156.3,40 L124.8,40 L124.8,28 L143,28 L143,26 L125,26" id="Shape" fill="#000000"></path>
+                    <polyline id="Shape" fill="#FFFFFF" points="164.6 153.8 169.3 101.1 104 101.1 104 127.1 140.7 127.1 138.4 153.9 104 153.9 104 179.9 136 179.9 133 213.6 104 221.6 104 248.6 157.4 233.8 157.8 229.4 163.8 160.8"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <rect id="suggestv-icon-a" width="192" height="192" rx="27"/>
+    <linearGradient id="suggestv-icon-c" x1="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".24"/>
+      <stop offset="79.46%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <rect id="suggestv-icon-b" width="192" height="192" rx="27"/>
+    <filter id="suggestv-icon-d" width="112.7%" height="112.1%" x="-6.4%" y="-4.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#163133" xlink:href="#suggestv-icon-a"/>
+    <mask id="suggestv-icon-e" fill="#fff">
+      <use xlink:href="#suggestv-icon-b"/>
+    </mask>
+    <use fill="url(#suggestv-icon-c)" xlink:href="#suggestv-icon-b"/>
+    <g fill="#FFF" filter="url(#suggestv-icon-d)" mask="url(#suggestv-icon-e)">
+      <g transform="translate(44 36)">
+        <polygon fill-opacity=".27" points="0 0 28 18.969 28 115 0 96.031"/>
+        <polygon fill-opacity=".71" points="110 69 36 116 36 22"/>
+      </g>
+    </g>
+  </g>
+</svg>

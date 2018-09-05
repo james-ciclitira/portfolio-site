@@ -1,0 +1,38 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Photoshop
+  </title>
+  <defs>
+    <linearGradient x1="24.3%" y1="-5.2%" x2="62.6%" y2="77.2%" id="a">
+      <stop stop-color="#A0CBFF" offset="0%"/>
+      <stop stop-color="#A0CBFE" offset="39.4%"/>
+      <stop stop-color="#8EC2FC" offset="58.3%"/>
+      <stop stop-color="#83BCFB" offset="78.4%"/>
+      <stop stop-color="#7FBAFB" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="35.6%" y1="1.4%" x2="61.4%" y2="88.5%" id="b">
+      <stop stop-color="#090058" offset="0%"/>
+      <stop stop-color="#070033" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="-43.5%" y1="-70.1%" x2="98%" y2="129.9%" id="c">
+      <stop stop-color="#A0CBFF" offset="0%"/>
+      <stop stop-color="#A0CBFE" offset="39.4%"/>
+      <stop stop-color="#8EC2FC" offset="58.3%"/>
+      <stop stop-color="#83BCFB" offset="78.4%"/>
+      <stop stop-color="#7FBAFB" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="-91%" y1="-153.1%" x2="85.6%" y2="105.4%" id="d">
+      <stop stop-color="#A0CBFF" offset="0%"/>
+      <stop stop-color="#A0CBFE" offset="39.4%"/>
+      <stop stop-color="#8EC2FC" offset="58.3%"/>
+      <stop stop-color="#83BCFB" offset="78.4%"/>
+      <stop stop-color="#7FBAFB" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h865v850H0z" fill="url(#a)" transform="translate(80 87)"/>
+    <path d="M.4.3h727.4V715H.4z" transform="translate(148.362 154.293)" fill="url(#b)"/>
+    <path d="M.4 2.3S55 .8 100 .8c45.6 0 78 10.7 99.8 29.5 20.8 17.8 35 48 35 82.5s-10.8 62.7-30 82.5C179.4 221 150 236 100 238.3l-26.5.6v112H.5V2.2zm73 174.5c8 .8 13 .4 24.8.3 39.2-.4 63.4-24.2 63.4-60.3 0-32.3-20-59-57.6-60.3-15-.5-30.5 0-30.5 0v120.4z" fill="url(#c)" transform="translate(288.622 324.293)"/>
+    <path d="M262.6 273c14.7 9 49.5 22.4 73.2 22.4 24.2 0 34.2-8.5 34.2-21.8s-8-27.3-38-37.4c-53-18-73.6-39.7-73-70 0-49 41-85.7 104.7-85.7 30 0 54 9.8 69.7 17.8V157c-11.6-6.4-45-20.6-67-20.6-19.6 0-30.6 8-30.6 21.2 0 12.3 10 18.7 41.5 29.8 49 17 69.5 42 70 80.4 0 48.4-37.3 87-111.5 84.6-25.5-.8-53.7-11-73.2-21.5v-58z" fill="url(#d)" transform="translate(288.622 324.293)"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="numilli-icon-a" x1="0%" y1="28.4%" y2="100%">
+      <stop offset="0%" stop-color="#0072A2"/>
+      <stop offset="100%" stop-color="#002E7B"/>
+    </linearGradient>
+    <linearGradient id="numilli-icon-c" x1="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".24"/>
+      <stop offset="79.46%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <rect id="numilli-icon-b" width="192" height="192" rx="27"/>
+    <filter id="numilli-icon-d" width="125.7%" height="123.6%" x="-12.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="192" height="192" fill="url(#numilli-icon-a)" rx="27"/>
+    <use fill="url(#numilli-icon-c)" xlink:href="#numilli-icon-b"/>
+    <g fill="#FFF" filter="url(#numilli-icon-d)" transform="translate(46 41)">
+      <polygon points="0 0 54.876 29.919 55 51.713 19.304 34.11 19.304 96.759 0 110"/>
+      <polygon points="0 0 54.876 29.919 55 51.713 19.304 34.11 19.304 96.759 0 110" transform="rotate(-180 50.5 55)"/>
+    </g>
+  </g>
+</svg>
