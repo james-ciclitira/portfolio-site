@@ -1,6 +1,5 @@
 @import url('https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css');
 
-
 img[alt=''],
 img:not([alt]) {
   border: 5px dashed pink;
@@ -293,7 +292,6 @@ progress {
 .bg-top {
   background-repeat: no-repeat
 }
-
 
 @font-face {
   font-family: EuclidFlex;
