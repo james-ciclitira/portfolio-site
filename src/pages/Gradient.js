@@ -1,5 +1,8 @@
 import React from 'react'
 import GradientCard from '../components/GradientCard.js'
+import './gradients.css'
+
+
 
 let Tangelo = `
 .Tangelo {

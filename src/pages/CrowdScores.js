@@ -55,31 +55,31 @@ job='UI/UX Research, Wireframing, UI/UX Design, Icon Design, Conceptualising Ide
     <h2 className='ml3'>Advertising</h2>
 
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-          <img className='shadow' src='images/crowdscores/marketing/web1.jpg' alt='CrowdScore-marketing'/>
+          <img className='hoverable' src='images/crowdscores/marketing/web1.jpg' alt='CrowdScore-marketing'/>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-          <img className='shadow' src='images/crowdscores/marketing/web2.jpg' alt='CrowdScore-marketing'/>
+          <img className='hoverable' src='images/crowdscores/marketing/web2.jpg' alt='CrowdScore-marketing'/>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-          <img className='shadow' src='images/crowdscores/marketing/web3.jpg' alt='CrowdScore-marketing'/>
+          <img className='hoverable' src='images/crowdscores/marketing/web3.jpg' alt='CrowdScore-marketing'/>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-          <img className='shadow' src='images/crowdscores/marketing/web4.jpg' alt='CrowdScore-marketing'/>
+          <img className='hoverable' src='images/crowdscores/marketing/web4.jpg' alt='CrowdScore-marketing'/>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-          <img className='shadow' src='images/crowdscores/marketing/web5.jpg' alt='CrowdScore-marketing'/>
+          <img className='hoverable' src='images/crowdscores/marketing/web5.jpg' alt='CrowdScore-marketing'/>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-          <img className='shadow' src='images/crowdscores/marketing/web6.jpg' alt='CrowdScore-marketing'/>
+          <img className='hoverable' src='images/crowdscores/marketing/web6.jpg' alt='CrowdScore-marketing'/>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-          <img className='shadow' src='images/crowdscores/marketing/web7.jpg' alt='CrowdScore-marketing'/>
+          <img className='hoverable' src='images/crowdscores/marketing/web7.jpg' alt='CrowdScore-marketing'/>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-          <img className='shadow' src='images/crowdscores/marketing/web8.jpg' alt='CrowdScore-marketing'/>
+          <img className='hoverable' src='images/crowdscores/marketing/web8.jpg' alt='CrowdScore-marketing'/>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-          <img className='shadow' src='images/crowdscores/marketing/web9.jpg' alt='CrowdScore-marketing'/>
+          <img className='hoverable' src='images/crowdscores/marketing/web9.jpg' alt='CrowdScore-marketing'/>
     </div>
   </section>
 </div>
