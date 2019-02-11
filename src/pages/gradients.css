@@ -101,11 +101,3 @@
     background: linear-gradient(135deg, #00c853 0, #009ec8 100%);
     filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#00c853', endColorstr='#009ec8', GradientType=1)
 }
-
-.bg-bottom,
-.bg-center,
-.bg-left,
-.bg-right,
-.bg-top {
-    background-repeat: no-repeat
-}
