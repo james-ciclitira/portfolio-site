@@ -13,7 +13,8 @@ const TemplateWrapper = ({ children }) =>
   <div>
     <Helmet
       title="James Ciclitira - Digital Product Designer"
-      link={[
+      link=
+      {[
       { rel: 'apple-touch-icon', sizes: '57x57', href: 'favicon/apple-icon-57x57.png' },
       { rel: 'apple-touch-icon', sizes: '60x60', href: 'favicon/apple-icon-60x60.png' },
       { rel: 'apple-touch-icon', sizes: '72x72', href: 'favicon/apple-icon-72x72.png' },
@@ -28,7 +29,7 @@ const TemplateWrapper = ({ children }) =>
       { rel: 'icon', type:'image/png', sizes: '96x96', href: 'favicon/favicon-96x96.png' },
       { rel: 'icon', type:'image/png', sizes: '16x16', href: 'favicon/favicon-16x16.png' },
       { rel: 'manifest', href: 'favicon/manifest.json'}
-        ]}
+      ]}
       meta={[
         { name: 'description', content: 'Digital Product Designer based in Berlin. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
         { name: 'keywords', content: 'Digital Product Design, James Ciclitira, UI/UX, User Interface Design, User Experiences Design, London, Europe, HTML, CSS, React, iOS, Andriod, Mobile, Web, Sketch, Prototyping, Web development, Responsive Design, User Testing, Mobile Apps, Interaction Design, Front-end Development, Digital Product Design, Jimmy, Jimi, Tech' },

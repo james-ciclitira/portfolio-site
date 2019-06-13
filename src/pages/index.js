@@ -1,4 +1,5 @@
 import React from "react"
+import Particles from 'react-particles-js';
 
 const IndexPage = () =>
 <section
@@ -7,7 +8,17 @@ style=
 height:'100vh',
 width: '100%',
 }}>
-          
+<div style={{
+height:'100vh',
+width: '100%',
+position: 'absolute'
+}}>
+
+
+<Particles/>
+
+	      
+</div>
 <h1 
 style=
 {{
