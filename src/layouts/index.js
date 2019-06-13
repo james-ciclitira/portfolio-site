@@ -1,20 +1,13 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import './index.css'
 
 
 const Header = () =>
 
-   <nav className='mw8 db center' >
-        <div className="dt-l w-100 border-box pa3 pt4">
-          <Link className="db dtc-l v-mid link hover-orange tc tl-l mb0-l mb2 b" to="/" title="Home">James Ciclitira</Link>
-          <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
-            <a className="link dib mr3-l mr0 hover-orange b" target='blank' href="https://jimmmy.design/">Digital Résumé</a>
-          </div>
-        </div>
-      </nav>
+   <nav>
+  </nav>
 
 const TemplateWrapper = ({ children }) =>
   <div>
@@ -55,7 +48,7 @@ const TemplateWrapper = ({ children }) =>
       ]}
     />
     <Header />
-    <div className='center mw8 db ph3'>
+    <div>
       {children()}
     </div>
   </div>

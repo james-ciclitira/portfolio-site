@@ -1,8 +1,5 @@
-@import url('https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css');
-
-img[alt=''],
-img:not([alt]) {
-    border: 5px dashed pink;
+html {
+	background-color: #F7EA50
 }
 
 
@@ -18,72 +15,8 @@ html {
     -webkit-text-size-adjust: 100%;
 }
 
-input {
-    padding-bottom: 4px
-}
-
 
 a {
-    text-decoration: none
-}
+	    font-family: EuclidFlex;
 
-
-p {
-    line-height: 1.92;
-
-}
-
-body {
-    letter-spacing: .05em;
-    width: 100%;
-    height: 100%;
-    padding: 0;
-    overflow-x: hidden;
-    margin: 0;
-    background-color: #fafafa
-}
-
-a,
-body {
-    color: #2D3539
-}
-
-input,
-textarea {
-    border-width: 0 0 1px;
-    border-color: rgba(0, 0, 0, .12);
-    outline: 0;
-    resize: none
-}
-
-::selection {
-    background: #03D4BF;
-    color: #fff
-}
-
-
-.hoverable {
-    transition: top .2s, box-shadow .1s;
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .12);
-    border-radius: 4px
-}
-
-.hoverable:hover {
-    transition: box-shadow .25s;
-    top: -5px;
-    box-shadow: 0 16px 20px 0 rgba(0, 0, 0, .25)
-}
-
-
-.w-48 {
-    width: 48%
-}
-
-
-.br5 {
-    border-radius: 8px
-}
-
-.round {
-    border-radius: 99px
 }
