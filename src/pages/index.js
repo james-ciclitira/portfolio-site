@@ -15,7 +15,24 @@ position: 'absolute'
 }}>
 
 
-<Particles/>
+<Particles
+      params={{
+            		particles: {
+                    "number": {
+                    "value": 60
+                    },
+                    "size": {
+                    "value": 1.5
+                    },
+                
+            			line_linked: {
+            				shadow: {
+            					enable: true,
+            					color: "#3CA9D1",
+            				}
+            			}
+            		}
+            	}}/>
 
 	      
 </div>
