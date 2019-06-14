@@ -52,10 +52,11 @@ marginRight:'auto',
 marginLeft:'auto',
 paddingTop:'4em', 
 lineHeight:'180%',
+fontWeight: '200'
 }}>
 
 
-<span style={{fontSize: '72px'}}>Hello!</span><br/><br/>
+<span style={{fontSize: '72px', fontWeight: '700'}}>Hello!</span><br/><br/>
 I am James, a berlin based Product Designer
 Passionate in the creation of meaningful digital experiences with a focus on user centric design.<br/><br/>
 
