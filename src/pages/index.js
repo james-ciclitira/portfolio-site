@@ -2,6 +2,7 @@ import React from "react"
 import Particles from 'react-particles-js';
 
 const IndexPage = () =>
+
 <section
 style=
 {{
@@ -11,7 +12,9 @@ width: '100%',
 <div style={{
 height:'100vh',
 width: '100%',
-position: 'absolute'
+position: 'absolute',
+zIndex:'-9',
+
 }}>
 
 
@@ -24,6 +27,7 @@ position: 'absolute'
                     "size": {
                     "value": 1.5
                     },
+
                 
             			line_linked: {
             				shadow: {
@@ -31,14 +35,17 @@ position: 'absolute'
             					color: "#3CA9D1",
             				}
             			}
-            		}
-            	}}/>
+            		},
+            	}}
+
+                />
 
 	      
 </div>
 <h1 
 style=
 {{
+zIndex:'9999',
 color:'white',
 maxWidth: '30em',
 marginRight:'auto',
