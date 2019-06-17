@@ -57,14 +57,14 @@ fontWeight: '200'
 
 
 <span style={{fontSize: '72px', fontWeight: '700'}}>Hello!</span><br/><br/>
-I am James, a berlin based Product Designer
-Passionate in the creation of meaningful digital experiences with a focus on user centric design.<br/><br/>
+I am James, a Berlin based Product Designer,
+passionate about the creation of meaningful digital experiences with a focus on user-centric design.<br/><br/>
 
-Interesting in the design of engaging and meaningful products based on users needs and data driven research.
+Interesting in the design of engaging and meaningful products based on users needs and data-driven research.
 
 <br/><br/>
 
-I’m always happy to have a chat so please don’t be shy and drop me an message or check out my 
+I’m always happy to have a chat so please don’t be shy and drop me a message or check out my 
 
 <a style={{color:'white', textDecoration:'none', fontWeight:'700'}} target='blank' href='https://jimmmy.design/'> résumé.</a><br/><br/>
 Have a nice day!
