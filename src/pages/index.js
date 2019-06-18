@@ -46,7 +46,7 @@ zIndex:'-9',
 style=
 {{
 zIndex:'9999',
-color:'#FFF652',
+color:'white',
 maxWidth: '30em',
 marginRight:'auto',
 marginLeft:'auto',
@@ -66,7 +66,7 @@ Interesting in the design of engaging and meaningful products based on users nee
 
 I’m always happy to have a chat so please don’t be shy and drop me a message or check out my 
 
-<a style={{color:'#FFF652', textDecoration:'none', fontWeight:'700'}} target='blank' href='https://jimmmy.design/'> résumé.</a><br/><br/>
+<a style={{color:'white', textDecoration:'none', fontWeight:'700'}} target='blank' href='https://jimmmy.design/'> résumé.</a><br/><br/>
 Have a nice day!
 
 </h1>
