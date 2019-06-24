@@ -1,7 +1,3 @@
-html {
-	background-color: #101F31
-}
-
 
 @font-face {
     font-family: EuclidFlex;
@@ -18,4 +14,8 @@ html {
 
 a {
 	    font-family: EuclidFlex;
+}
+
+.darkmode-layer, .darkmode-toggle {
+  z-index: 500;
 }

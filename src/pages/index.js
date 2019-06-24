@@ -9,20 +9,19 @@ style=
 height:'100vh',
 width: '100%',
 }}>
+
 <div style={{
 height:'100vh',
 width: '100%',
 position: 'absolute',
-zIndex:'-9',
-
+zIndex:'9',
 }}>
-
 
 <Particles
       params={{
             		particles: {
                     "number": {
-                    "value": 60
+                    "value": 120
                     },
                     "size": {
                     "value": 1.5
@@ -37,9 +36,7 @@ zIndex:'-9',
             			}
             		},
             	}}
-
                 />
-
 	      
 </div>
 <h1 
@@ -55,24 +52,29 @@ lineHeight:'180%',
 fontWeight: '200'
 }}>
 
-
 <span style={{fontSize: '72px', fontWeight: '700'}}>Hello!</span><br/><br/>
 I am James, a Berlin based Product Designer,
 passionate about the creation of meaningful digital experiences with a focus on user-centric design.<br/><br/>
-
 Interesting in the design of engaging and meaningful products based on users needs and data-driven research.
-
 <br/><br/>
-
 I’m always happy to have a chat so please don’t be shy and drop me a message or check out my 
-
 <a style={{color:'white', textDecoration:'none', fontWeight:'700'}} target='blank' href='https://jimmmy.design/'> résumé.</a><br/><br/>
 Have a nice day!
-
 </h1>
+<div style={{
+    backgroundColor: '#101F31',
+    position:'absolute',
+    top:'0',
+    bottom:'0',
+    right:'0',
+    left:'0',
+    zIndex:'-9',
 
+}}>
+</div>
 
 </section>   
+
 
 
 export default IndexPage
