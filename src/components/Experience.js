@@ -26,6 +26,7 @@ class Experience extends React.Component {
 
     <div className='dib w-25-ns w-100 v-top'>
     <Role jobTitle='Product designer' employer='Vivy' img='images/companies/vivy_icon.svg' link='https://www.vivy.com/'/>
+    <Role jobTitle='Product designer' employer='COUP' img='images/companies/coup.svg' link='https://www.joincoup.com/'/>
 
     </div>
 </div>
