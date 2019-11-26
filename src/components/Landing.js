@@ -10,7 +10,7 @@ class Landing extends React.Component {
 
 
 
-          <p className='pr6 mr2 lh-copy' style={{fontSize: '20px'}}>
+          <p className='pr6-l pr0 mr2-l mr0 lh-copy' style={{fontSize: '19px'}}>
 
 Passionate about the creation of meaningful digital experiences with a focus on user-centric design. Interests in Clean tech,  Sustainability, Education, Healthcare and Accessibility.
 </p>
