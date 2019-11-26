@@ -14,7 +14,7 @@ class CaseStudyAbout extends React.Component {
     <p className='dib  pr5-ns ma0 '>{this.props.role}</p>
     </div>
     <div className='w-50-ns w-100 dib'>
-    <h2 className='mt4-ns'>Job Title</h2>
+    <h2 className='mt4-ns'>Position</h2>
     <p className=''>{this.props.clients}</p>
     <h2 className='mt4'>Responsibilities</h2>
     <p className=''>{this.props.job}</p>
