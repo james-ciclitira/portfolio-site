@@ -8,10 +8,10 @@ import './index.css'
 const Header = () =>
 
    <nav className='mw8 db center' >
-        <div className="dt-l w-100 border-box pa3 pt4">
-          <Link className="db dtc-l v-mid link hover-orange tc tl-l mb0-l mb2 b" to="/" title="Home">James Ciclitira</Link>
+        <div className="dt-l w-100 border-box pa3 pt5">
+          <Link className="db dtc-l v-mid link hover-orange tc tl-l mb0-l mb2 f4" to="/" title="Home">James Ciclitira</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
-            <a className="link dib mr3-l mr0 hover-orange b" target='blank' href="https://jciclitira-resume.netlify.com/">Digital Résumé</a>
+            <a className="link dib mr3-l mr0 hover-orange f4" target='blank' href="https://jciclitira-resume.netlify.com/">Résumé</a>
           </div>
         </div>
       </nav>
@@ -19,7 +19,7 @@ const Header = () =>
 const TemplateWrapper = ({ children }) =>
   <div>
     <Helmet
-      title="James Ciclitira - Digital Product Designer"
+      title="James Ciclitira product designer"
       link={[
       { rel: 'apple-touch-icon', sizes: '57x57', href: 'favicon/apple-icon-57x57.png' },
       { rel: 'apple-touch-icon', sizes: '60x60', href: 'favicon/apple-icon-60x60.png' },

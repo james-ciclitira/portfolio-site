@@ -10,7 +10,10 @@ class Work extends React.Component {
   render() {
     return (
     <section>
-        <h1>Recent works</h1>
+        <h1 className='mb5'>Recent projects</h1>
+
+        <WorkTileOut title='Coup' info='Mobile application' summary='Coup is a electric scooter sharing service operating in Berlin, Madrid & Paris!' img='images/preview/coup.jpg' link='https://joincoup.com/'/>
+        <WorkTileOut title='Vivy' info='Mobile application' summary='Vivy is a digital health record. Enabling user to securely store encrypted medical documents on a smart phone' img='images/preview/vivy.jpg' link='https://vivy.com/'/>
         <WorkTile title='CrowdScores' info='Mobile application' summary='CrowdScores brings you the fastest live scores. It is a social network which allows fans to share in-match events and opinion. Running on both iOS and Android.' img='images/preview/crowdscores-app.jpg' link='/CrowdScores'/>
         <WorkTile title='YunoJuno' info='Web application' summary='YunoJuno connects the best freelancers with great companies. Employers work directly with freelancers with YunoJuno managing contact and payment.' img='images/preview/yunojuno.jpg' link='YunoJuno'/>
         <WorkTile title='QuidCo' info='Mobile application' summary='Quidco is the number one cashback service. Partnering with retailers to help consumers earn cashback every year.' img='images/preview/quidco.jpg' link='Quidco'/>
@@ -18,11 +21,7 @@ class Work extends React.Component {
 
 
 
-        <WorkTileAlt title='Coup - Coming soon' info='Mobile application' summary='Coup is a electric scooter sharing service operating in Berlin, Madrid & Paris!' img='images/preview/coup.jpg'/>
-        <WorkTileAlt title='Vivy - Coming soon' info='Mobile application' summary='Vivy is a digital health record. Enabling user to securely store encrypted medical documents on a smart phone' img='images/preview/vivy.jpg'/>
-
         <h1>Personal projects</h1>
-        <WorkTileOut title='Deliverate.co.uk' info='Web application' summary='Front-end for a Delivery rating web app showing the top-rated takeaways in your local area.' img='images/preview/deliverate.svg' link='http://deliverate.co.uk/'/>
         <WorkTileOut title='Working-out.design' info='Content management system' summary='Collection of the best free co-working spots in London. Why not submit a location?' img='images/preview/working-out.svg' link='https://working-out.netlify.com'/>
         <WorkTileOut title='Interactive résumé' info='Javascript résumé template' summary='JSON content dynamically displayed within a template.' img='images/preview/cv.svg' link='https://github.com/james-ciclitira/resume'/>
         <WorkTile title='CSS gradient' info='Interactive CSS gradients' summary='CSS for a number of gradients, simplely click to download' img='images/preview/gradient.svg' link='Gradient'/>

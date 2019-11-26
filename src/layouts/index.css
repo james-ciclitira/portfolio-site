@@ -40,12 +40,12 @@ body {
     padding: 0;
     overflow-x: hidden;
     margin: 0;
-    background-color: #fafafa
+    background-color: #fff
 }
 
 a,
 body {
-    color: #2D3539
+    color: #13141C
 }
 
 input,
@@ -87,3 +87,35 @@ textarea {
 .round {
     border-radius: 99px
 }
+
+
+.f1-l{
+    font-size:3.2rem
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
