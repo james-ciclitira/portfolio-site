@@ -13,7 +13,7 @@ job='UI/UX Research, Wireframing, UI/UX Design, Icon Design, Conceptualising Ide
 <section className='mt3 dib'>
   <div className='w-100 w-40-ns fl'>
     <h2>Interface design</h2>
-   <p> CrowdScores offers a clean, clear and useable interface on both Andriod and iOS platforms. The influence of material design can be clearly seen throughout the app. <br /> <br /> Whilst working on the application I stuck to the the philosophy that data within mobile applications should be scannable and easily consumed. This was achieved by respecting elements layout bounds.</p>
+   <p> CrowdScores offers a clean, clear and useable interface on both Android and iOS platforms. The influence of material design can be clearly seen throughout the app. <br /> <br /> Whilst working on the application I stuck to the the philosophy that data within mobile applications should be scannable and easily consumed. This was achieved by respecting elements layout bounds.</p>
   </div>
   <div className='w-100 w-30-ns fr'>
     <img src='images/crowdscores/match.jpg' alt='CrowdScores - Live football scores'/>

@@ -14,7 +14,6 @@ role={[
 " As one of the first member of the design team, I helped established the foundation of Vivy.",
 <br/>,<br/>,
 "This included setitng up a design system and helping shape product vision; pushing to help impovment the overall experience for the customers.",
-
 ]}
 clients='Product Designer '
 job='Wireframing, Usability testing,  Interface design, Conducting customer research, User interviews, diary studies, card sorting etc'
@@ -22,17 +21,23 @@ job='Wireframing, Usability testing,  Interface design, Conducting customer rese
 
 <section className='mw8 center'>
   <div className='pv4 ma0 ph2'>
-  <img className='w-50-ns w-100' alt='suggestv-wireframe' src='images/suggestv/usecase.png' />
-  <img className='w-50-ns w-100' alt='suggestv-wireframe' src='images/suggestv/usecase2.png' />
-  <img className='w-50-ns w-100' alt='suggestv-wireframe' src='images/suggestv/usecase3.png' />
-  <img className='w-50-ns w-100' alt='suggestv-wireframe' src='images/suggestv/usecase4.png' />
+
+  <img className='w-40 db center' alt='loading' src='images/dog.gif' />
+
+  <img className='w-40 db center' style={{marginTop: '-68px'}} alt='loading' src='images/soon.gif' />
+
+
+
+  <img className='w-100 dn' alt='invoice-management' src='images/vivy/invoice management.png' />
+
+  <img className='w-100 dn' alt='Dr-dashboard' src='images/vivy/dashboard.png' />
+
+
+<a className='w-100 dn' target='blank' href='https://doc-request.netlify.com/' >pototpe </a>
+
+
+
   </div>
-  <CaseStudyImg img='images/suggestv/Search.png'/>
-  <CaseStudyImg  img='images/suggestv/Search-onclick.png'/>
-  <CaseStudyImg  img='images/suggestv/Demo.png'/>
-  <CaseStudyImg  img='images/suggestv/Reports.png'/>
-  <CaseStudyImg  img='images/suggestv/Setting.png'/>
-  <CaseStudyImg  img='images/suggestv/Account.png'/>
 </section>
 <Footer/>
 </div>
