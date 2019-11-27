@@ -13,7 +13,7 @@ about='Vivy is a electronic health record, using end-to-end encryption. Customer
 role={[
 " As one of the first member of the design team, I helped established the foundation of Vivy.",
 <br/>,<br/>,
-"This included setitng up a design system and helping shape product vision; pushing to help impovment the overall experience for the customers.",
+"This included setting up a design system, helping to shape the product vision and pushing to improve the overall experience.",
 ]}
 clients='Product Designer '
 job='Wireframing, Usability testing,  Interface design, Conducting customer research, User interviews, diary studies, card sorting etc'
