@@ -6,7 +6,9 @@ class Footer extends React.Component {
     return (
 <section className='mt6'>
 <footer className="pv4 ph3 ph5-ns tc">
-  <small className="f6 db hint-text pv3 tc">© 2018 JAMES CICLITIRA, ALL RIGHTS RESERVED</small>
+  <img className='w5 db center' alt='loading' src='images/dog.gif' />
+  <small className="f6 db hint-text pv3 tc lh-copy">© 2019 JAMES CICLITIRA, ALL RIGHTS RESERVED</small>
+
 </footer>
 </section>
 

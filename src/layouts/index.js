@@ -11,7 +11,7 @@ const Header = () =>
         <div className="dt-l w-100 border-box pa3 pt5">
           <Link className="db dtc-l v-mid link hover-orange tc tl-l mb0-l mb2 f4" to="/" title="Home">James Ciclitira</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
-            <a className="link dib mr3-l mr0 hover-orange f4" target='blank' href="https://jciclitira-resume.netlify.com/">Résumé</a>
+            <a className="link dib mr3-l mr0 hover-orange f4" target='blank' href="https://jciclitira-resume.netlify.com/">Resumé</a>
           </div>
         </div>
       </nav>

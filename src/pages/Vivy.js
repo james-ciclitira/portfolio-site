@@ -9,20 +9,16 @@ import Footer from '../components/Footer'
 const Vivy = () =>
 <div className='pt5'>
 <CaseStudyAbout
-about='Vivy is a electronic health record, using end-to-end encryption. Customers can securesly store medical documents and information on their phones.'
-role={[
-" As one of the first member of the design team, I helped established the foundation of Vivy.",
-<br/>,<br/>,
-"This included setting up a design system, helping to shape the product vision and pushing to improve the overall experience.",
-]}
+about='Vivy is a electronic health record, using end-to-end encryption which allows customers to securely store and share medical documents'
+role='As one of the initial designers, I supported by helping to establish the foundation of Vivy by shaping the product vision and pushing to prioritize reaserch and the customer experience.'
+
 clients='Product Designer '
-job='Wireframing, Usability testing,  Interface design, Conducting customer research, User interviews, diary studies, card sorting etc'
+job=' User interviews, diary studies, card sorting, storyboarding, wireframing, Interface design, Usability studies etc..'
 />
 
 <section className='mw8 center'>
   <div className='pv4 ma0 ph2'>
 
-  <img className='w-40 db center' alt='loading' src='images/dog.gif' />
 
   <img className='w-40 db center' style={{marginTop: '-68px'}} alt='loading' src='images/soon.gif' />
 
