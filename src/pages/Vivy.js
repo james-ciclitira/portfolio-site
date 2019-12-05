@@ -68,6 +68,8 @@ Vestibulum rutrum vel justo vel pulvinar. Etiam pellentesque, nulla sed vestibul
 
 
 
+    <img className='w-100' alt='Doctors portal' src='images/vivy/viewing.png' />
+
 
   </div>
 </section>
