@@ -20,7 +20,6 @@ job=' User interviews, diary studies, card sorting, storyboarding, wireframing, 
 
 <section className='mw8 center'>
   <div className=' ma0 ph2'>
-
     <img className='w-100' alt='onboarding screens' src='images/vivy/onboarding.png' />
 
 
@@ -36,19 +35,17 @@ Vestibulum rutrum vel justo vel pulvinar.
 </p>
 
 
-<ScreenshotRight
-title='Document requests' 
-text='Vestibulum rutrum vel justo vel pulvinar. Etiam pellentesque, nulla sed vestibulum tincidunt, libero urna ornare nunc, ut porttitor erat elit quis tortor. Pellentesque gravida neque ante, at vulputate magna sodales ut. Cras maximus pharetra tortor, et eleifend leo cursus vitae.'
-img1='images/vivy/request2.png'
-img2='images/vivy/request1.png'
-/>
+<img className='w-100' alt='Doctors portal' src='images/vivy/request.png' />
+
+
+<img className='w-100 mb5' alt='Doctors portal' src='images/vivy/request_flow.png' />
 
 
 <ScreenshotRight
-title='Managing expectation' 
-text='Vestibulum rutrum vel justo vel pulvinar. Etiam pellentesque, nulla sed vestibulum tincidunt, libero urna ornare nunc, ut porttitor erat elit quis tortor. Pellentesque gravida neque ante, at vulputate magna sodales ut. Cras maximus pharetra tortor, et eleifend leo cursus vitae.'
-img1='images/vivy/expectation2.png'
-img2='images/vivy/expectation1.png'
+title='Expectation managment' 
+text='As Vivy was a relative new service in the beginning the likelihood of doctor fulfilling request was low which in turn lead to frustrated customers. To prevent frustration we need to manage expectations by improving the communication and transparency of the request service.  This was done by communicating the status of the request and educating customer about the request process as well offering possible fixes .  '
+img1='images/vivy/expectation1.png'
+img2='images/vivy/expectation2.png'
 />
 
 
@@ -72,7 +69,7 @@ img2='images/vivy/share2.png'
 
   </div>
  <div className='w-100 dib tc relative'>
-    <img  src='images/vivy/dr.png' alt='Mobile-Screenshot' className=''/>
+    <img  src='images/vivy/dr.png' alt='Mobile-Screenshot'/>
     <a className='bg-black white pv2 ph3 br2 dib absolute top-0 center left-0' target='blank' href='https://doc-request.netlify.com/'>View prototype</a>
 
 

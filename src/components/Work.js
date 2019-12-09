@@ -12,7 +12,7 @@ class Work extends React.Component {
     <section>
         <h1 className='mb5'>Recent projects</h1>
 
-        <WorkTileOut title='Coup' info='Mobile application' summary='Coup is a electric scooter sharing service operating in Berlin, Madrid & Paris!' img='images/preview/coup.jpg' link='https://joincoup.com/'/>
+        <WorkTile title='Coup' info='Mobile application' summary='Coup is a electric scooter sharing service operating in Berlin, Madrid & Paris!' img='images/preview/coup.jpg' link='Coup'/>
         <WorkTile title='Vivy' info='Mobile application' summary='Vivy is a digital health record. Enabling user to securely store encrypted medical documents on a smart phone' img='images/preview/vivy.jpg' link='Vivy'/>
         <WorkTile title='CrowdScores' info='Mobile application' summary='CrowdScores brings you the fastest live scores. It is a social network which allows fans to share in-match events and opinion. Running on both iOS and Android.' img='images/preview/crowdscores-app.jpg' link='/CrowdScores'/>
         <WorkTile title='YunoJuno' info='Web application' summary='YunoJuno connects the best freelancers with great companies. Employers work directly with freelancers with YunoJuno managing contact and payment.' img='images/preview/yunojuno.jpg' link='YunoJuno'/>
