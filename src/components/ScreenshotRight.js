@@ -6,19 +6,17 @@ class ScreenshotRight extends React.Component {
     return (
 
 <section className='mt3 dib'>
-  <div className='w-100 w-40-ns fl'>
+  <div className='w-100 w-50-ns fl'>
     <h2>{this.props.title}</h2>
    <p>{this.props.text}</p>
   </div>
-  <div className='w-100 w-30-ns fr'>
+  <div className='w-100 w-25-ns fr'>
     <img src={this.props.img1} alt='Mobile-Screenshot'/>
   </div>
-  <div className='w-100 w-30-ns fr'>
+  <div className='w-100 w-25-ns fr'>
     <img src={this.props.img2} alt='Mobile-Screenshot'/>
   </div>
 </section>
-
-
     )
   }
 }

@@ -5,14 +5,14 @@ class ScreenshotLeft extends React.Component {
   render() {
     return (
 <section className='mt4 dib'>
-  <div className='w-100 w-30-ns fl'>
+  <div className='w-100 w-25-ns fl'>
    <img src={this.props.img1} alt='CrowdScores - Live football scores'/>
   </div>
-  <div className='w-100 w-40-ns mt4 fr'>
+  <div className='w-100 w-50-ns mt4 fr'>
     <h2>{this.props.title}</h2>
     <p>{this.props.text}</p>
   </div>
-  <div className='w-100 w-30-ns fl'>
+  <div className='w-100 w-25-ns fl'>
     <img src={this.props.img2} alt='Mobile-Screenshot'/>
   </div>
 </section>
