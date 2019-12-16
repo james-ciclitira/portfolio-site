@@ -12,10 +12,10 @@ const Vivy = () =>
 <div className='pt5'>
 <CaseStudyAbout
 about='Vivy is a electronic health record, using end-to-end encryption which allows customers to securely store and share medical documents'
-role='As one of the initial designers, I supported by helping to establish the foundation of Vivy; shaping the product vision and pushing to prioritize research and the customer experience.'
+role='As one of the initial designers, I supported by helping to establish the foundation of Vivy, shaping the product vision and pushing to prioritize research and the customer experience.'
 
 clients='Product Designer '
-job=' User interviews, diary studies, card sorting, storyboarding, wireframing, Interface design, Usability studies etc..'
+job=' User interviews, diary studies, card sorting, storyboarding, wireframing, Interface design, Usability studies'
 />
 
 <section className='mw8 center'>
@@ -54,7 +54,7 @@ img2='images/vivy/expectation2.png'
 
 <ScreenshotLeft
 title='File sharing' 
-text='Vestibulum rutrum vel justo vel pulvinar. Etiam pellentesque, nulla sed vestibulum tincidunt, libero urna ornare nunc, ut porttitor erat elit quis tortor. Pellentesque gravida neque ante, at vulputate magna sodales ut. Cras maximus pharetra tortor, et eleifend leo cursus vitae.'
+text='In principle once files had been imported to the users smartphone these files could be easily re-shared with other medical pratications. Access could be managed within the application giving patients greater control.'
 img1='images/vivy/share1.png'
 img2='images/vivy/share2.png'
 />
@@ -73,10 +73,20 @@ img2='images/vivy/share2.png'
  <div className='w-50 dib'>
     <img className='='  src='images/vivy/dr.png' alt='Mobile-Screenshot'/>
 
-
   </div>
 
 
+
+
+<div className='mt6'>
+    <h1>Findings</h1>
+    <p>
+
+Developing a comprehensive medical file sharing network proved harder than originally anticipated. this was due to a number of factors. Firstly Vivy as a private company struggled to build trust, particularly for healthcare professionals few chose to embrace the services making the document exchange service costly and time consuming. To help combat this we fell back on the end-to-end encryption security, explaining how only the intended recipient can view the data. This helped but in hindsight for a project similar this too really developed I would argue that it would need to be developed at a state or national level.  
+</p>
+
+
+  </div>
  
 </section>
 
@@ -100,9 +110,7 @@ img2='images/vivy/share2.png'
 
 <p>July 2018</p>
 
-<p className='pb3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit sed felis elementum egestas. Nullam placerat maximus elit pharetra rutrum. Proin eleifend lorem lacus, vel cursus dolor tincidunt eu. Cras metus sem, lacinia eu vestibulum vitae, semper dictum leo. Vivamus quis tellus ex. Donec congue vestibulum mi, non eleifend massa gravida a. Vivamus porttitor iaculis quam, nec efficitur augue consequat at. Aenean lorem lectus, ultricies vitae consectetur et, imperdiet et odio. Nulla vel ipsum tempus, pellentesque orci sed, commodo risus. Quisque eleifend, purus ac pulvinar fermentum, nulla magna iaculis lorem, at aliquam nisl ante id est. Donec aliquam lobortis sapien ac tincidunt.
-
-Vestibulum rutrum vel justo vel pulvinar. Etiam pellentesque, nulla sed vestibulum tincidunt, libero urna ornare nunc, ut porttitor erat elit quis tortor. Pellentesque gravida neque ante, at vulputate magna sodales ut. Cras maximus pharetra tortor, et eleifend leo cursus vitae. Mauris quis nibh ultricies, vestibulum tortor eu, tempus orci. Morbi interdum, ex ac semper facilisis, neque nisl placerat justo, ut euismod nisl nibh nec leo. Praesent porttitor enim id nunc congue, a tempus dui suscipit. Sed ornare eros ac purus tempor volutpat. In eu odio eu nibh blandit scelerisque eget vel nunc.
+<p className='pb3'>Coming soon... 
 
 </p>
 
