@@ -28,7 +28,7 @@ class Social extends React.Component {
           </g>
         </svg>
         </a>
-        <a className="link dim round dib h2 w2-2  mr3 pa2 grow"  href="https://unsplash.com/@jjiiimmmy" title="unsplash">
+        <a className="link dim round dib h2 w2-2  mr3 pa2 grow" target='blank'  href="https://unsplash.com/@jjiiimmmy" title="unsplash">
         <svg x="0px" y="0px" viewBox="0 0 32 32" fill="#2D3539">
         <path d="M22 15v8H10v-8H0v17h32V15H22zm0-6H10V0h12v9z"/>
 
