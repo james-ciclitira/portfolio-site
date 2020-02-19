@@ -23,9 +23,9 @@ const TemplateWrapper = ({ children }) =>
       link={[
 
 { rel: 'apple-touch-icon', size: '180x180', href: 'favicon_io/apple-touch-icon.png' },
-{ rel: 'icon', type:'image/png',  size: '32x32', href: 'favicon_io/favicon-32x32.png' }, 
+{ rel: 'icon', type:'image/png',  size: '32x32', href: 'favicon_io/favicon-32x32.png' },
 { rel: 'icon',  type:'image/png',  size: '16x16', href: 'favicon_io/favicon-16x16.png' },
-{ rel: 'manifest', href:'favicon_io/site.webmanifest' },    
+{ rel: 'manifest', href:'favicon_io/site.webmanifest' },
         ]}
       meta={[
         { name: 'description', content: 'Digital Product Designer based in Berlin. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
