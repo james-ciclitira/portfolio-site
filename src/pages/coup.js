@@ -9,7 +9,7 @@ const Coup = () =>
 <div className='pt5'>
 <CaseStudyAbout
 about='Coup is a electric scooter sharing service operating in Berlin, Madrid & Paris!'
-role='Write up coming soon'
+role='Coming soon'
 clients='Product Designer '
 job='Wireframing, User research, User testing, Interface design'
 />
@@ -30,7 +30,6 @@ job='Wireframing, User research, User testing, Interface design'
             <img  src='images/coup/runner.png' alt='scooter'/>
             <img  src='images/coup/report.png' alt='scooter'/>
 
-            <img className='db w-30' style={{margin: 'auto'}}  src='images/soon.gif' alt='scooter'/>
 
 
 
