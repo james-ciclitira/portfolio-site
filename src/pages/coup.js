@@ -1,7 +1,6 @@
 import React from "react"
 import CaseStudyAbout from '../components/CaseStudyAbout.js'
 import CaseStudyImages from '../components/CaseStudyImages'
-import Img from '../components/Img'
 import Footer from '../components/Footer'
 
 
@@ -17,9 +16,9 @@ job='Wireframing, User research, User testing, Interface design'
 
 
 <div className='mb5'>
- <img className='w-30 pa2'  src='images/coup/4.jpg' alt='scooter'/>
  <img className='w-30 pa2'  src='images/coup/2.jpg' alt='scooter'/>
  <img className='w-30 pa2'  src='images/coup/1.jpg' alt='scooter'/>
+ <img className='w-30 pa2'  src='images/coup/3.jpg' alt='scooter'/>
 </div>
 
 <h2>Customer app</h2>
@@ -31,6 +30,7 @@ job='Wireframing, User research, User testing, Interface design'
             <img  src='images/coup/runner.png' alt='scooter'/>
             <img  src='images/coup/report.png' alt='scooter'/>
 
+            <img className='db w-30' style={{margin: 'auto'}}  src='images/soon.gif' alt='scooter'/>
 
 
 
