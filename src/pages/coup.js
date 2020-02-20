@@ -9,13 +9,30 @@ import Footer from '../components/Footer'
 const Coup = () =>
 <div className='pt5'>
 <CaseStudyAbout
-about='Coup was a electric scooter sharing service operating in Berlin, Madrid & Paris!'
-role='Coming soon'
+about='Coup is a electric scooter sharing service operating in Berlin, Madrid & Paris!'
+role='Write up coming soon'
 clients='Product Designer '
 job='Wireframing, User research, User testing, Interface design'
 />
 
-      <Img img='images/coup/4.jpg'/>
+
+<div className='mb5'>
+ <img className='w-30 pa2'  src='images/coup/4.jpg' alt='scooter'/>
+ <img className='w-30 pa2'  src='images/coup/2.jpg' alt='scooter'/>
+ <img className='w-30 pa2'  src='images/coup/1.jpg' alt='scooter'/>
+</div>
+
+<h2>Customer app</h2>
+            <img  src='images/coup/rider.png' alt='scooter'/>
+            <img  src='images/coup/swap.png' alt='scooter'/>
+
+
+<h2>Fleet management app</h2>
+            <img  src='images/coup/runner.png' alt='scooter'/>
+            <img  src='images/coup/report.png' alt='scooter'/>
+
+
+
 
 <Footer/>
 </div>
