@@ -6,7 +6,7 @@ class Experience extends React.Component {
     return (
 <section>
 <div className="db-ns dn center mt4">
-    <h1>Past experience</h1>
+    <h2 className='mb4 mt6'>Past experience</h2>
     <div className='pt3 '>
     <div className='dib w-25-ns w-100'>
     <Role jobTitle='Product designer' employer='CrowdScores' img='images/companies/crowdscores-icon.svg' link='https://crowdscores.com/'/>

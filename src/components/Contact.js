@@ -5,7 +5,7 @@ class Contact extends React.Component {
 
     return (
 <section className='center mt6 bg-transparent' id='form'>
-<h1 className='mb5 pt5'>Get in touch</h1>
+<h2 className='mb5 pt5'>Get in touch</h2>
   <form name="contact" method="post" action="/thanks/" data-netlify="true" data-netlify-honeypot="bot-field">
   <input type="hidden" name="form-name" value="contact" />
     <input type="hidden" name="form-name" value="contact"/><p hidden><label>Don’t fill this out:<input name="bot-field"/></label></p>
