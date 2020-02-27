@@ -24,7 +24,7 @@ class Work extends React.Component {
 
         <h2 className='mb4'>Personal projects</h2>
         <PersonalProjects title='CMS system' info='Content management system' summary='Collection of the best free co-working spots in London. Why not submit a location?' img='images/preview/working-out.svg' link='https://working-out.netlify.com'/>
-        <PersonalProjects title='Free resume template' info='Dynamically displayed JSON' summary='JSON content dynamically displayed within a template.' img='images/preview/cv.svg' link='https://github.com/james-ciclitira/resume'/>
+        <PersonalProjects title='Resume template' info='Dynamically displayed JSON' summary='JSON content dynamically displayed within a template.' img='images/preview/cv.svg' link='https://github.com/james-ciclitira/resume'/>
         <PersonalProjects title='CSS colours' info='Interactive web gradients' summary='CSS for a number of gradients, simplely click to download' img='images/preview/gradient.svg' link='gradient'/>
     </section>
     )
