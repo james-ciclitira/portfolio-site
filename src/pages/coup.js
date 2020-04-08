@@ -18,7 +18,7 @@ It was leading the way in reimagining sustainable urban transportation. However 
 
 
 clients='Product Designer '
-job='Wireframing, User research, User testing, Interface design'
+job='User research, Wireframing, User testing, Interface design'
 />
 
 
@@ -30,8 +30,8 @@ job='Wireframing, User research, User testing, Interface design'
 
 
 <h1>
-User based battery swapping</h1>
-<p className='pb3'>Coming soon..
+Consumer application</h1>
+<p className='pb3'>Case study coming soon
 
 
 
@@ -45,19 +45,17 @@ User based battery swapping</h1>
 
 <p className='pb3'>Coming soon..
 
+</p>
+<img  src='images/coup/runner.png' alt='scooter'/>
+<img  src='images/coup/report.png' alt='scooter'/>
+
+<img className='w-50 dib'  src='images/coup/login.png' alt='scooter'/>
+<img  className='w-50 dib'  src='images/coup/tickets.png' alt='scooter'/>
+<img  className='w-50 dib'  src='images/coup/status.png' alt='scooter'/>
+<img  className='w-50 dib'  src='images/coup/overview.png' alt='scooter'/>
 
 
-</p>            <img  src='images/coup/runner.png' alt='scooter'/>
-            <img  src='images/coup/report.png' alt='scooter'/>
 
-            <img className='w-50 dib'  src='images/coup/login.png' alt='scooter'/>
-            <img  className='w-50 dib'  src='images/coup/tickets.png' alt='scooter'/>
-            <img  className='w-50 dib'  src='images/coup/status.png' alt='scooter'/>
-            <img  className='w-50 dib'  src='images/coup/overview.png' alt='scooter'/>
-
-
-
-<h2 className='tc mt6'>Case study coming soon...</h2>
 
 
 <Footer/>
