@@ -43,38 +43,35 @@ job='User research, Wireframing, User testing, Interface design'
 
 
 
-<h2>
-Case study in app reporting</h2>
+<h2>Case study - Customer reporting</h2>
 
-
-
-<h3 className='mt4'>Problem statatments</h3>
+<p className='ma0'> Problem statments</p>
 
 <Example
 title='Unusable scooters '
-text='On average 18 helmets are stolen every day when a helmet is stolen this puts the scooter out of commission until it’s replaced. The operations team only finds out that the helmet is missing when reported by the customer to the CS team.'
-help='By reducing the time taken to replace the helmet means a lower potential lost earning for the scooter. A reliable hardware detection solution is unrealistic, only 20% of the time can the helmet be detected.'
+text='Eighteen helmets are stolen every day on average, when stolen scooter is out of commission until it’s replaced. The operations team only finds out that the helmet is missing when reported by the CS team.'
+help='Reducing the time to replace the helmet give a lower potential lost earning as the scooter remains in commission.'
 img1='images/coup/4.png'
 />
 
-<ExampleAlt
-title='Unknown cancellation cause '
-text='On average 12% of rides are cancelled before a customer starts the engine, there are a number of hypotheses as to why.
-Such as. Damage, Low battery, Missing helm wrong scooter selected.'
-help='By gathering more data we aim to address the cancellation rate and reduce this number in the future.'
+<Example
+title='Cancellation cause unknown '
+text='12% of rides are cancelled before a customer starts the engine, there are a number of hypotheses as to the casue.
+zb. Damage, Low battery, Missing helmet, wrong scooter selected.'
+help='By gathering data we aim to address the cancellation rate and reduce the percentage in the future.'
 img1='images/coup/5.png'
 />
 
 <Example
-title='Helmet replacement cost'
-text='When a helmet is stolen it’s not clear as to  which users stole the helmet. Therefore it can be difficult to charge the correct users for the cost of the helmet.'
-help='This is made worse as  not all customers report a missing helmet to CS making the potential chain of customers longer and harder to track.'
+title='Damage invoicing'
+text='If a scooter damaged it can be difficult to determine the casue and charge the correct customer especially if the scoter has had muliple riders.'
+help='Not all customers report a problem making the potential chain of rides longer and harder to track. By reducing the potential number of rentals we aim it to make the identification eaiser.'
 img1='images/coup/6.png'
 />
 
 
 
-<h2>Solutions reporting</h2>
+<h2 className='mt5'>Solutions reporting</h2>
 
 <p>
 If a customer cancels a ride without starting the engine the dismissible popup is displayed. It helps to gather data about issues faced during the ride process as well as highlighting any problems quickly to the operation team.
