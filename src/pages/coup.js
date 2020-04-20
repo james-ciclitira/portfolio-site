@@ -31,10 +31,10 @@ job='User research, Wireframing, User testing, Interface design'
 
 
 
-<h1>My Role</h1>
+<h1>Role summary</h1>
 
 
-<p> During my time with Coup I was a member of the team responsible for the ride. Our overall objective was to make sure that user experience was as seamless as possible for any customers interacting with the scooters. High on our list was to make sure that any scooter which were available to rent performed flawlessly or if any problems arose customers were easily able to rectify these.
+<p> During my time here I was a member of the team responsible for the ride. Our overall objective was to make sure that user experience was as seamless as possible for any customers interacting with the scooters. High on our list was to make sure that any scooter which were available to rent performed flawlessly or if any problems arose customers were easily able to rectify these.
 </p>
 
             <img  src='images/coup/map.png' alt='scooter'/>
@@ -50,7 +50,7 @@ job='User research, Wireframing, User testing, Interface design'
 <Example
 title='Unusable scooters '
 text='Eighteen helmets are stolen every day on average, when stolen scooter is out of commission until it’s replaced. The operations team only finds out that the helmet is missing when reported by the CS team.'
-help='Reducing the time to replace the helmet give a lower potential lost earning as the scooter remains in commission.'
+help='By reducing the time to replace the helmet gives us a lower potential lost of earning as the scooter remains out of commission for less time.'
 img1='images/coup/4.png'
 />
 
@@ -58,7 +58,7 @@ img1='images/coup/4.png'
 title='Cancellation cause unknown '
 text='12% of rides are cancelled before a customer starts the engine, there are a number of hypotheses as to the casue.
 zb. Damage, Low battery, Missing helmet, wrong scooter selected.'
-help='By gathering data we aim to address the cancellation rate and reduce the percentage in the future.'
+help='By gathering data the aim is to address the cancellation rate and reduce this in the future.'
 img1='images/coup/5.png'
 />
 

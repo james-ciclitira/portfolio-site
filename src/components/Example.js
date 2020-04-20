@@ -5,9 +5,11 @@ class Example extends React.Component {
   render() {
     return (
 
-<section className='mt5 '>
-  <div className='w-100 w-70-ns'>
-    <h3>{this.props.title}</h3>
+<section className='pt4'>
+
+<div className='bg-blue h1 w1 dib v-top mt1 br-pill'></div>
+  <div className='w-100 w-70-ns dib pl3 '>
+    <h3 className='ma0'>{this.props.title}</h3>
     <p>{this.props.text}</p>
     <p className='black-70 f6'>{this.props.help}</p>
   </div>
