@@ -1,19 +1,23 @@
 import React from 'react'
 import PropTypes from 'prop-types';
 
+
 class Example extends React.Component {
   render() {
     return (
 
-<section className='pt4'>
 
-<div className='bg-blue h1 w1 dib v-top mt1 br-pill'></div>
-  <div className='w-100 w-70-ns dib pl3 '>
-    <h3 className='ma0'>{this.props.title}</h3>
-    <p>{this.props.text}</p>
-    <p className='black-70 f6'>{this.props.help}</p>
-  </div>
-</section>
+<article className='w-100 mv2'>
+    <div className='w-70-ns w-100 dib pr4 secondary lh-copy v-top'>
+    <div className='mw7'>
+    <h4 className='black f5 mt3 '>Problem statement</h4>
+    <p className='f6 mt2'>{this.props.text}</p>
+    <h4 className='black f6'></h4>
+    <p className='f6 ma0 lh-copy'><span>Hypothesis:</span> {this.props.help}</p>
+    </div>
+    </div>
+<img className='w-30-ns w-100 mt5 mt0-ns dib' src={this.props.img} alt='bg-img'/>
+</article>
     )
   }
 }

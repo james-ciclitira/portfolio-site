@@ -38,12 +38,16 @@ body {
     padding: 0;
     overflow-x: hidden;
     margin: 0;
-    background-color: #fff
+    background-color: #fff;
 }
 
 a,
 body {
     color: #13141C
+}
+
+.secondary {
+  color: #616161;
 }
 
 input,
