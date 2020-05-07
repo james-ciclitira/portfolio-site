@@ -10,14 +10,7 @@ const Coup = () =>
 <div className='pt5'>
 <CaseStudyAbout
 about='Coup is a electric scooter sharing service operating in Berlin, Madrid & Paris!'
-role='
-
-
-Coup was Bosch owed electric mobility sharing service operating in Berlin, Paris & Madrid.
-It was leading the way in reimagining sustainable urban transportation. However due to a lack of funding the serice was discontinued as of 2020.'
-
-
-
+role='Coup is a Bosch owed electric mobility sharing service operating in Berlin, Paris & Madrid. It was leading the way in reimagining sustainable urban transportation. However, due to a lack of funding the service was discontinued as of mid-2020.'
 clients='Product Designer '
 job='User research, Wireframing, User testing, Interface design'
 />
@@ -30,43 +23,30 @@ job='User research, Wireframing, User testing, Interface design'
 </div>
 
 
-
 <h1>Role summary</h1>
-
-
-<p> During my time here I was a member of the team responsible for the ride. Our overall objective was to make sure that user experience was as seamless as possible for any customers interacting with the scooters. High on our list was to make sure that any scooter which were available to rent performed flawlessly or if any problems arose customers were easily able to rectify these.
-</p>
-
-            <img  src='images/coup/map.png' alt='scooter'/>
-
-
-
+<p> During my time with Coup, I was part of the team that was responsible for the ride phase. The overall objective was to make sure that user experience was as seamless as possible, for customers interacting with the scooters. Top on our prioritize was to make sure that all scooters which were available to rent performed flawlessly and if any problems arose customers were easily able to rectify these issues.</p>
+<img  src='images/coup/map.png' alt='scooter'/>
 
 
 <h2>Case study - Customer reporting</h2>
-
-<p className='ma0'> Problem statments</p>
+<p className='ma0'>Design problem</p>
 
 <Example
 title='Unusable scooters '
-text='Eighteen helmets are stolen every day on average, when stolen scooter is out of commission until it’s replaced. The operations team only finds out that the helmet is missing when reported by the CS team.'
-help='By reducing the time to replace the helmet gives us a lower potential lost of earning as the scooter remains out of commission for less time.'
-img1='images/coup/4.png'
+text='Eighteen helmets are stolen every day on average. When the helmet is stolen scooter is placed out of commission until it’s replaced. Our internal operations team only finds out that the helmet is missing when it has been reported by the CS team.'
+help='Reducing the time to replace the helmet gives Coup a lower potential loss of earning as the scooter remains out of commission for less time.'
 />
 
 <Example
 title='Cancellation cause unknown '
-text='12% of rides are cancelled before a customer starts the engine, there are a number of hypotheses as to the casue.
-zb. Damage, Low battery, Missing helmet, wrong scooter selected.'
-help='By gathering data the aim is to address the cancellation rate and reduce this in the future.'
-img1='images/coup/5.png'
+text='12% of rides are canceled before a customer starts the engine, there are a number of hypotheses as to the cause. zb. Damage, Low battery, Missing helmet, wrong scooter selected.'
+help='By gathering data on the causes of the cancellation rate we hypotheses we can reduce the number in the near future.'
 />
 
 <Example
 title='Damage invoicing'
-text='If a scooter damaged it can be difficult to determine the casue and charge the correct customer especially if the scoter has had muliple riders.'
-help='Not all customers report a problem making the potential chain of rides longer and harder to track. By reducing the potential number of rentals we aim it to make the identification eaiser.'
-img1='images/coup/6.png'
+text='If a scooter damaged it can be difficult to determine the cause & charge the guilty party especially if the scoter has had multiple riders.'
+help='Not all customers report damage making the potential chain of rides hard to track.  By reducing the potential number of riders not making reports we aim to make the identification easier.'
 />
 
 
