@@ -62,10 +62,15 @@ If a customer cancels a ride without starting the engine the dismissible popup i
 
 
 
-<h2 className='mt5'>User based battry swapping</h2>
+<h2 className='mt5'>Community-based battery swapping</h2>
 
 
-<p className='pb3 secondary f6'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique, sapien quis euismod suscipit, lacus leo tempus nisi, vel mollis odio odio nec nulla. Vestibulum vitae dignissim urna, at sollicitudin sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+<p className='pb3 secondary f6'>This research project was undertaken to help the company gathered insights and validated assumptions on a pilot scheme.
+
+The idea of community-based battery swapping had been in the works for a while however, it was difficult to verify many of the hypotheses being made without installing up the required infrastructure.
+
+<br/><br/>
+With the assistance of the internal operations team and few changes within the application we were able to gather real firsthand research on the validity of the scheme from active customers.
 </p>
 
             <img  src='images/coup/swap.png' alt='scooter'/>
@@ -73,7 +78,16 @@ If a customer cancels a ride without starting the engine the dismissible popup i
 
 <h1>Operations tooling</h1>
 
-<p className='pb3'>Coming soon..
+<p className='pb3 secondary f6'>
+
+The operational tooling suite can be separated into two subsections.  The support system a web application, enabling the dispatches to manage assets in the field both workers & scooters. This could be used to create and monitor assignments or view the status and history of a scooter.   The Field App was a mobile application used by workers out in the field to conduct maintenance and report the status of an assignment.
+
+
+<br/><br/>
+
+
+
+I was responsible for the design and continuous development of the tooling suite. With its implementation, we saw improved fleet operational efficiency across markets which help to reduced company costs.
 
 </p>
 <img  src='images/coup/runner.png' alt='scooter'/>
