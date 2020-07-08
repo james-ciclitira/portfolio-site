@@ -17,9 +17,9 @@ job='User research, Wireframing, User testing, Interface design'
 
 
 <div className='mb5'>
- <img className='w-30 pa2'  src='images/coup/2.jpg' alt='scooter'/>
- <img className='w-30 pa2'  src='images/coup/1.jpg' alt='scooter'/>
- <img className='w-30 pa2'  src='images/coup/3.jpg' alt='scooter'/>
+ <img className='w-30-ns w-100 pa2'  src='images/coup/2.jpg' alt='scooter'/>
+ <img className='w-30-ns w-100 pa2'  src='images/coup/1.jpg' alt='scooter'/>
+ <img className='w-30-ns w-100 pa2'  src='images/coup/3.jpg' alt='scooter'/>
 </div>
 
 
@@ -93,10 +93,10 @@ I was responsible for the design and continuous development of the tooling suite
 <img  src='images/coup/runner.png' alt='scooter'/>
 <img  src='images/coup/report.png' alt='scooter'/>
 
-<img className='w-50 dib'  src='images/coup/login.png' alt='scooter'/>
-<img  className='w-50 dib'  src='images/coup/tickets.png' alt='scooter'/>
-<img  className='w-50 dib'  src='images/coup/status.png' alt='scooter'/>
-<img  className='w-50 dib'  src='images/coup/overview.png' alt='scooter'/>
+<img className='w-50-ns w-100 dib'  src='images/coup/login.png' alt='scooter'/>
+<img  className='w-50-ns w-100 dib'  src='images/coup/tickets.png' alt='scooter'/>
+<img  className='w-50-ns w-100 dib'  src='images/coup/status.png' alt='scooter'/>
+<img  className='w-50-ns w-100 dib'  src='images/coup/overview.png' alt='scooter'/>
 
 
 
