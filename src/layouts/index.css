@@ -99,9 +99,14 @@ textarea {
 
 .w2-2
 {
-  width: 35px
+  width: 46px
 }
 
+
+.w2-1
+{
+  width: 40px
+}
 .shadow {
   box-shadow:
   0 2.8px 2.2px rgba(0, 0, 0, 0.02),
