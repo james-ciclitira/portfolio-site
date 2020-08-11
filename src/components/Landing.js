@@ -11,7 +11,7 @@ class Landing extends React.Component {
 Berlin based Product Designer creating meaningful digital experiences. <br/> Passionate about education, social change, sustainability, and accessibility.</p>
 
 <div className='mt5 pt2'>
-<a href="mailto:jciclitira@gmail.com" className='f6 grow no-underline bn ph4 pv3 dib-ns dn mr4 bg-black white pointer'>Say hello</a><Social/>
+<Social/>
 </div>
 
 </section>
