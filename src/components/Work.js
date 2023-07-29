@@ -13,7 +13,7 @@ class Work extends React.Component {
     <section>
         <h2 className='mb5'>Recent projects</h2>
 
-        <WorkTileOut title='Cooler Future' info='Mobile application - Case study coming soon ' summary='Cooler Future helps you make your voice heard and give you a app to create a positive impact with your savings, support what matters to you.' img='images/preview/Cooler-future.png' link='https://web.archive.org/web/20220301162614/http://www.coolerfuture.com/' />
+        <WorkTileOut title='Cooler Future' info='Mobile application - Case study coming soon ' summary='Cooler Future helps you make your voice heard and give you a app to create a positive impact with your savings, support what matters to you.' img='images/preview/Cooler-future.png' link='https://web.archive.org/web/20220301162614if_/http://www.coolerfuture.com/' />
 
 
         <WorkTile title='Coup' info='Mobile application' summary='Coup is an electric mobility service operating in Berlin, Madrid & Paris! Users can unlock and rent an electric moped via the app.' img='images/preview/coup.jpg' link='Coup'/>
