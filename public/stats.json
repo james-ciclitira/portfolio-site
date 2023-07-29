@@ -1,0 +1,124 @@
+{
+  "assetsByChunkName": {
+    "path---yunojuno": [
+      "path---yunojuno-a0e39f21c11f6a62c5ab.js",
+      "path---yunojuno-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---coup": [
+      "path---coup-a0e39f21c11f6a62c5ab.js",
+      "path---coup-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---gradient": [
+      "path---gradient-a0e39f21c11f6a62c5ab.js",
+      "path---gradient-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-68a654a401b4dea1c085.js",
+      "component---src-pages-index-js-68a654a401b4dea1c085.js.map"
+    ],
+    "path---suggestv": [
+      "path---suggestv-a0e39f21c11f6a62c5ab.js",
+      "path---suggestv-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---crowd-scores": [
+      "path---crowd-scores-a0e39f21c11f6a62c5ab.js",
+      "path---crowd-scores-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-suggestv-js": [
+      "component---src-pages-suggestv-js-0237353db6b2a63d5e04.js",
+      "component---src-pages-suggestv-js-0237353db6b2a63d5e04.js.map"
+    ],
+    "path---quidco": [
+      "path---quidco-a0e39f21c11f6a62c5ab.js",
+      "path---quidco-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---vivy": [
+      "path---vivy-a0e39f21c11f6a62c5ab.js",
+      "path---vivy-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-coup-js": [
+      "component---src-pages-coup-js-a3a4c9abe4ee59a9f7ff.js",
+      "component---src-pages-coup-js-a3a4c9abe4ee59a9f7ff.js.map"
+    ],
+    "path---numilli": [
+      "path---numilli-a0e39f21c11f6a62c5ab.js",
+      "path---numilli-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-numilli-js": [
+      "component---src-pages-numilli-js-ba90ed69b9b2dfac8c23.js",
+      "component---src-pages-numilli-js-ba90ed69b9b2dfac8c23.js.map"
+    ],
+    "component---src-pages-gradient-js": [
+      "component---src-pages-gradient-js-c99e6d063dadff86db61.js",
+      "component---src-pages-gradient-js-c99e6d063dadff86db61.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-800631867db6f24da040.js",
+      "component---src-layouts-index-js-800631867db6f24da040.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-yunojuno-js": [
+      "component---src-pages-yunojuno-js-1fd833e276e857a6982e.js",
+      "component---src-pages-yunojuno-js-1fd833e276e857a6982e.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-d8c7bb5f40f03c6c8fb4.js",
+      "component---src-pages-404-js-d8c7bb5f40f03c6c8fb4.js.map"
+    ],
+    "commons": [
+      "commons-a06d5e11e1864d88b31f.js",
+      "build-js-styles.css",
+      "commons-a06d5e11e1864d88b31f.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-91c2b783199c2d0b6623.js",
+      "component---src-pages-page-2-js-91c2b783199c2d0b6623.js.map"
+    ],
+    "path---thanks": [
+      "path---thanks-a0e39f21c11f6a62c5ab.js",
+      "path---thanks-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-2573990913f03e67d08d.js",
+      "build-js-styles.css",
+      "app-2573990913f03e67d08d.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-crowd-scores-js": [
+      "component---src-pages-crowd-scores-js-376121443d459e129c92.js",
+      "component---src-pages-crowd-scores-js-376121443d459e129c92.js.map"
+    ],
+    "component---src-pages-quidco-js": [
+      "component---src-pages-quidco-js-f7473cde42b02b19ab6b.js",
+      "component---src-pages-quidco-js-f7473cde42b02b19ab6b.js.map"
+    ],
+    "component---src-pages-thanks-js": [
+      "component---src-pages-thanks-js-24d1539e0059f049afd5.js",
+      "component---src-pages-thanks-js-24d1539e0059f049afd5.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-vivy-js": [
+      "component---src-pages-vivy-js-c258cdab392fd360523c.js",
+      "component---src-pages-vivy-js-c258cdab392fd360523c.js.map"
+    ]
+  }
+}

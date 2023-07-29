@@ -13,10 +13,12 @@ class Work extends React.Component {
     <section>
         <h2 className='mb5'>Recent projects</h2>
 
+        <WorkTileOut title='Cooler Future' info='Mobile application - Case study coming soon ' summary='Cooler Future helps you make your voice heard and give you a app to create a positive impact with your savings, support what matters to you.' img='images/preview/Cooler-future.png' link='https://web.archive.org/web/20220301162614/http://www.coolerfuture.com/' />
+
+
         <WorkTile title='Coup' info='Mobile application' summary='Coup is an electric mobility service operating in Berlin, Madrid & Paris! Users can unlock and rent an electric moped via the app.' img='images/preview/coup.jpg' link='Coup'/>
         <WorkTile title='Vivy' info='Mobile application' summary='Vivy is a digital health record. Enabling customers to securely store and share encrypted medical files on a smartphone.' img='images/preview/vivy.jpg' link='Vivy'/>
         <WorkTile title='CrowdScores' info='Mobile application' summary='CrowdScores brings you the fastest live football scores as well as being a social network allowing fans to share in-match events and opinions.' img='images/preview/crowdscores-app.jpg' link='/CrowdScores'/>
-        <WorkTile title='YunoJuno' info='Web application' summary='YunoJuno connects the best freelancers with great companies, employers work directly with freelancers with YunoJuno managing contacts and payments.' img='images/preview/yunojuno.jpg' link='YunoJuno'/>
         <WorkTile title='QuidCo' info='Mobile application' summary='Quidco is the number one cashback service in Europe. They partner with well-known retailers helping consumers earn cashback. ' img='images/preview/quidco.jpg' link='Quidco'/>
         <WorkTile title='Suggestv' info='Web application' summary='Suggestv is the inventor of semantic video distribution. Suggestv brings together content sellers and publishes creating a marketplace for online video content.' img='images/preview/suggestv-platfom.jpg' link='Suggestv'/>
 
